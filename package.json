@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chf007/egg-qywx.git"
+    "url": "git@github.com:chf007/egg-qywx.git"
   },
   "author": "chf007server@163.com",
   "license": "MIT",
