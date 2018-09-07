@@ -2,6 +2,12 @@
 
 企业微信API Egg 插件，日前只持 Egg2.x 以上版本
 
+## 安装
+
+```
+npm install egg-qywx
+```
+
 ## 启用
 ```
 // config/plugin.js
