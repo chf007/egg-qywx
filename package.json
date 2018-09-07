@@ -1,0 +1,29 @@
+{
+  "name": "egg-qywx",
+  "version": "1.0.0",
+  "description": "企业微信API Egg 插件",
+  "keywords": [
+    "egg",
+    "eggjs",
+    "eggPlugin",
+    "egg-plugin",
+    "qywx",
+    "egg-qywx",
+    "企业微信"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chf007/egg-qywx.git"
+  },
+  "author": "chf007server@163.com",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/chf007/egg-qywx/issues"
+  },
+  "eggPlugin": {
+    "name": "qywx"
+  }
+}
